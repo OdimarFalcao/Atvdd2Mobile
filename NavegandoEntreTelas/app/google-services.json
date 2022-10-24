@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1292536023",
+    "project_id": "listar-carros",
+    "storage_bucket": "listar-carros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1292536023:android:48a3de9daa49aeaa480892",
+        "android_client_info": {
+          "package_name": "br.com.ufc.navegandoentretelas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1292536023-ueqrhs6r9v6k5ija4m9umdijssj26ge7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwhK38pjC46uoTIL_jgnENCAW--905qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1292536023-ueqrhs6r9v6k5ija4m9umdijssj26ge7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

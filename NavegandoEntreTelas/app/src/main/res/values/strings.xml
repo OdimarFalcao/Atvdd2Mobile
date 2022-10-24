@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navegando Entre Telas</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_edt">Editar</string>
+    <string name="titulo">Formulário Carros</string>
+    <string name="titulo_list">Lista de Carros</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_deletar">Deletar</string>
+    <string name="titulo2">Editar Carro</string>
+</resources>
